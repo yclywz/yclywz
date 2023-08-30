@@ -2,7 +2,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yclywz&label=Profile%20views&color=0e75b6&style=flat" alt="yclywz" /> </p><h3 align="left">Benimle bağlantı kur:</h3><p align="left">
   <a href="https://twitter.com/yclywz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yclywz" height="30" width="40" /></a>
-  <a href="https://fb.com/yclywz" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yclywz" height="30" width="40" /></a>
+  <a href="https://fb.com/yclywz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yclywz" height="30" width="40" /></a>
   <a href="https://instagram.com/yclywz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yclywz" height="30" width="40" /></a>
 </p>
 
