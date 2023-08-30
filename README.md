@@ -1,3 +1,4 @@
+![Yücel Yavuz Banner Image](./banner.png)
 <h1 align="center">Merhaba 👋, ben Yücel Yavuz</h1><h3 align="center">Türkiye'den bir yazılım geliştiriciyim!</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yclywz&label=Profile%20views&color=0e75b6&style=flat" alt="yclywz" /> </p><h3 align="left">Benimle bağlantı kur:</h3><p align="left">
